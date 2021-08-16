@@ -1,0 +1,25 @@
+body {
+  font-family: Arial;
+  color: #082155;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 600px;
+  background-color: #1abc9c;
+}
+
+main {
+  background-color: #fff;
+  padding: 10px 60px;
+  width: 260px;
+  border-radius: 10px;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+p {
+  text-align: center;
+}
