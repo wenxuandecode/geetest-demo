@@ -1,7 +1,7 @@
 WenXuanDecode文轩解码 - GeeTest 行为验 Demo
 
 安装和使用GeeTest行为验教学视频：
-https://youtu.be/PlcyFkXMvyo
+https://bit.ly/3h6U9aG
 
 下载代码步骤：
 1. $ git clone https://github.com/wenxuandecode/geetest-demo.git
